@@ -1,0 +1,10 @@
+experiment,input_size,unbuffered_ms,buffered_ms,notes
+line_count,1MB,,,,
+line_count,10MB,,,,
+line_count,50MB,,,,
+pass_lookup,1000,,,,
+pass_lookup,10000,,,,
+pass_lookup,100000,,,,
+jdbc_insert,1000,Statement,PreparedStatement,Batch
+jdbc_insert,10000,Statement,PreparedStatement,Batch
+jdbc_insert,100000,Statement,PreparedStatement,Batch

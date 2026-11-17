@@ -1,0 +1,1 @@
+See REPORT.md section A1 for record layouts, pseudocode, damage handling and complexity comparison.

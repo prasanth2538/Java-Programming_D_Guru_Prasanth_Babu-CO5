@@ -1,0 +1,1 @@
+See REPORT.md section A2 for read-call prediction, buffering redesign and memory comparison.

@@ -1,0 +1,1 @@
+See REPORT.md section A5 and B2 for transactions and SQL injection analysis.
